@@ -1,0 +1,25 @@
+name: Generate Snake Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天运行一次
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Game from Contributions
+        uses: Platane/snk@v3
+        with:
+          github_user_name: "YtMour"
+          outputs: "github-contribution-grid-snake.svg"
+
+      - name: Commit and Push Result
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Generated Contribution Snake"
+          file_pattern: "github-contribution-grid-snake.svg"
