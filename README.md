@@ -66,11 +66,11 @@
 
   ---
 
-  ## 🖥️ 代码贡献图
+  ##  🏆 GitHub 贡献图
 
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/YtMour/YtMour/output/github-contribution-grid-snake.svg" alt="Contribution Graph">
-  </p>
+  
+  ![GitHub贡献图](https://raw.githubusercontent.com/YtMour/YtMour/main/github-contribution-grid-snake.svg)
+  
   
   ---
   
