@@ -20,9 +20,8 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=YtMour.YtMour" alt="Visitors">
   </p>
   
-  
-  
-  ![](.\assets\header_.png)
+  <!--   my-header-img -->
+  ![](./assets/header_.png)
   
   <div align="center">
     <a href="https://github.com/YtMour">
@@ -30,14 +29,14 @@
     </a>
   </div>
   
-  
+
   ## 🚀 关于我
-  
+
   👋 你好！我是 **沐星 (YtMour)**
   - **编程语言**：TypeScript, JavaScript, Python, Golang
   - **技术领域**：Web 开发、数据爬虫、自动化工具
   - **理念**：代码不仅是工具，也是一种艺术，应该兼具实用性与美感 ✨
-  
+
   ## 🔥 我的项目
   🚀 这里是我发布的一些开源项目，欢迎 Star ⭐ 和 Fork 🍴：
   - **[X-Spammers](https://github.com/YtMour/X-Spammers)** - X 平台消息推广测试项目
@@ -47,7 +46,7 @@
   - **[Javascript-study](https://github.com/YtMour/Javascript-study)** - JavaScript 进阶学习项目
   
   ## 📊 技术栈 & 统计数据
-  
+
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YtMour&theme=radical&show_icons=true" />
     <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/hacker_a.gif?raw=true" width="40%">
@@ -63,11 +62,11 @@
   
   ##  🏆 GitHub 贡献图
   
-
+  
   ![GitHub贡献图](https://raw.githubusercontent.com/YtMour/YtMour/main/github-contribution-grid-snake.svg)
-
+  
   ## 🎯 访客统计
-
+  
   <p align="center">
     <img src="https://count.getloli.com/get/@YtMour.github.readme" alt="Visitor Count">
   </p>
