@@ -67,6 +67,8 @@
   
   ## 🎯 访客统计
   
+  从2025年2月12日开始统计该页面的访问量~~~
+  
   <p align="center">
     <img src="https://count.getloli.com/get/@YtMour.github.readme" alt="Visitor Count">
   </p>
