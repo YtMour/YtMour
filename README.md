@@ -41,10 +41,9 @@
   🚀 这里是我发布的一些开源项目，欢迎 Star ⭐ 和 Fork 🍴：
   - **[X-Spammers](https://github.com/YtMour/X-Spammers)** - X 平台消息推广测试项目
   - **[Electron-DevTools](https://github.com/YtMour/Electron-DevTools)** -Yt DevTools一个便捷工具箱,便于各种加解密,文件转换,格式转换
+  - **[Cookic-screening](https://github.com/YtMour/Cookic-screening)** -Cookic-screening一个便捷的Cookie提取工具，可以在保存的Cookie中单独提取某一项网站Cookie便于使用，测试
   - **[Kongzi-vue](https://github.com/YtMour/Kongzi-vue)** - 以孔子文化为主题的 Vue 项目
-  - **[Python-study](https://github.com/YtMour/Python-study)** - Python 爬虫与基础知识合集
-  - **[Golang](https://github.com/YtMour/Golang)** - Golang 语言学习记录
-  - **[Javascript-study](https://github.com/YtMour/Javascript-study)** - JavaScript 进阶学习项目
+
   
   ## 📊 技术栈 & 统计数据
 
